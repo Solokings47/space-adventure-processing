@@ -1,5 +1,5 @@
 # space-adventure-processing
-An endless space adventure game made with Processing (JAVA)- dodge asteroids, collect coins to score point! Built during my 1st year Applied Computing @ MMU
+An endless space adventure game made with Processing (JAVA)- dodge asteroids, collect coins to score point! Built during my 1st year Applied Computing @ MMU. The game has potentials to be better but i want it to always remind me of where i started as a programmer
 ## Features
 - Smooth spaceship controls with arrow keys or WASD
 - Randomly spawning asteroids with increasing speed
